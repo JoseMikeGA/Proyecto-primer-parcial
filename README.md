@@ -1,5 +1,7 @@
 # Asistente virtual
 
+#### Poyecto Realizado por: Palma Morales Fatima Daniela Margarita y Gómez Acosta José Miguel
+
 Este proyecto muestra el uso de SpeechRecognition 3.8.1 para crear un asistente virtual utilizando el lenguaje Python e implementandolo en una Raspberry Pi 3 para el control de motor y LED.
 Para este proyecto utilizamos el **IDE Visual Studio Code** , dentro del cual creamos un entorno virtual con Python, ademas  de la instalacion de multiples librerias. 
 Para la parte del Hardware se utilizo una Raspberry Pi 3, a la cual se le conectaron un LED y un modulo L298N para el control del motor. **Todo se realizo dentro de la Raspberry Pi**.
@@ -41,4 +43,6 @@ sudo apt-get install gstreamer-1.0
 ```
 
 
+## Programas
 
+El codigo de ```linx_assistant.py```  
