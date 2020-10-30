@@ -45,4 +45,6 @@ sudo apt-get install gstreamer-1.0
 
 ## Programas
 
-El codigo de ```linx_assistant.py```  
+El codigo ``` prueba_entrada.py ``` se utilizo para comprobar el puerto/entrada de la Raspberry Py a la cual esta conectado el microfono, que en este caso nos arrojo el numero (0), valor el cual se utilizo en nuestro código principal.
+
+El codigo de ```linx_assistant.py``` es el codigo principal.
